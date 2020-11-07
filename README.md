@@ -12,4 +12,4 @@ TODO
 
 ## License
 
-Permissive GNU LGPLv3 license, see the [LICENSE](https://github.com/wabarc/prattein/blob/master/LICENSE) file for details.
+Permissive GNU LGPLv3 license, see the [LICENSE](https://github.com/wabarc/prattein/blob/main/LICENSE) file for details.
